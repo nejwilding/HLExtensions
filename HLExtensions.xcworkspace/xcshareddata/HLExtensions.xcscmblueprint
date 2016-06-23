@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6345685631C587708F9D9F5725C549DE96C9EA0F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6345685631C587708F9D9F5725C549DE96C9EA0F" : 0,
+    "95438028B10BBB846574013D29F154A00556A9D1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4398198D-DA16-4951-9059-70D6D6414F8A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6345685631C587708F9D9F5725C549DE96C9EA0F" : "HLExtensions\/",
+    "95438028B10BBB846574013D29F154A00556A9D1" : "HLExtensions\/Carthage\/Checkouts\/Nimble\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HLExtensions",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HLExtensions.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nejwilding\/HLExtensions.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6345685631C587708F9D9F5725C549DE96C9EA0F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Quick\/Nimble.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "95438028B10BBB846574013D29F154A00556A9D1"
+    }
+  ]
+}
